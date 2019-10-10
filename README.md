@@ -35,7 +35,7 @@ Follow these steps for completing your project.
 
 # Project - Shopping Cart
 
-## Directions
+## Directions--
 
 Before you get started, please take a few minutes and get acquainted with this application. Understand what's going on and how it's working.
 
